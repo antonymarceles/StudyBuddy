@@ -1,0 +1,77 @@
+================================================================================
+Appcelerator Titanium Diagnostics Build Log
+The contents of this file are useful to send to Appcelerator Support if
+reporting an issue to help us understand your environment, build settings
+and aid in debugging. Please attach this log to any issue that you report.
+================================================================================
+
+Starting build at 01/14/12 10:24
+
+Build details:
+
+   timestamp=12/22/11 13:09
+   module_apiversion=2
+   version=1.8.0.1
+   githash=fbdc96f
+
+
+Script arguments:
+   /Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/builder.py
+   simulator
+   5.0
+   /Users/antonymarceles/Downloads/StudyBuddyWS
+   com.egen.studybuddy
+   StudyBuddy
+   iphone
+   iphone
+   
+
+Building from: /Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone
+Platform: Darwin Kernel Version 11.2.0: Tue Aug  9 20:54:00 PDT 2011; root:xnu-1699.24.8~1/RELEASE_X86_64
+
+Xcode path is: /Developer
+
+
+githash=fbdc96f, existing_git_hash=None
+forcing rebuild since libhash (None) not matching (086dba02ebf4956989e6555c3d754630)
+Performing full rebuild
+Generated the following stylecode code:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>classes</key>
+		<dict>
+</dict>
+
+		<key>classes_density</key>
+		<dict>
+</dict>
+
+		<key>ids</key>
+		<dict>
+</dict>
+
+		<key>ids_density</key>
+		<dict>
+</dict>
+
+		<key>tags</key>
+		<dict>
+</dict>
+
+		<key>tags_density</key>
+		<dict>
+</dict>
+
+	</dict>
+</plist>
+
+Exception detected in script:
+Traceback (most recent call last):
+  File "/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/builder.py", line 1027, in main
+    applogo = ti.generate_infoplist(infoplist,appid,devicefamily,project_dir,iphone_version)
+  File "/Library/Application Support/Titanium/mobilesdk/osx/1.8.0.1/iphone/../tiapp.py", line 438, in generate_infoplist
+    tempiconslist = sorted(os.listdir(iconsdir1))
+OSError: [Errno 2] No such file or directory: '/Users/antonymarceles/Downloads/StudyBuddyWS/Resources/iphone'

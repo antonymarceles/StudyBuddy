@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = D:\StudyBuddy\StudyBuddyWS\build.log
+[DEBUG] C:\Users\ASD\AppData\Roaming\Titanium\mobilesdk\win32\1.8.0.1\android\builder.py simulator StudyBuddy E:\Eclipse_Android\android-sdk-windows D:\StudyBuddy\StudyBuddyWS com.egen.studybuddy 1 HVGA /127.0.0.1:49763
+[INFO] Building StudyBuddy for Android ... one moment
+[INFO] Titanium SDK version: 1.8.0.1 (12/22/11 13:09 fbdc96f)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.017000 seconds on emulator to get ready
+[DEBUG] com.egen.studybuddy installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: D:\StudyBuddy\StudyBuddyWS\Resources\dbFunctions.js => D:\StudyBuddy\StudyBuddyWS\build\android\bin\assets\Resources\dbFunctions.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-long-land-hdpi\default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-long-land-ldpi\default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-long-port-hdpi\default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-long-port-ldpi\default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-notlong-land-hdpi\default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-notlong-land-ldpi\default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-notlong-land-mdpi\default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-notlong-port-hdpi\default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-notlong-port-ldpi\default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at D:\StudyBuddy\StudyBuddyWS\Resources\android\images\res-notlong-port-mdpi\default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... StudyBuddy
+[INFO] Launching application ... StudyBuddy
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.egen.studybuddy/.StudybuddyActivity }
+
+[INFO] Relaunched StudyBuddy ... Application should be running.
+[INFO] Forwarding host port 49763 to device for debugging.
