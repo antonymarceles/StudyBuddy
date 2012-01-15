@@ -8,11 +8,6 @@ var tab1 = Titanium.UI.createTab({
 	window:win
 });
 
-vedjbvcdfbk
-db;fbsvs
-test
-
-
 var win = Titanium.UI.createWindow({  
     title:'',
     backgroundColor:'#fff'
