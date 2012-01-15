@@ -19,6 +19,10 @@ test 2
 
 test master add
 
+
+hirhicbd
+
+
 var win = Titanium.UI.createWindow({  
     title:'',
     backgroundColor:'#fff'
