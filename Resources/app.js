@@ -12,6 +12,8 @@ sss
 
 test for pull 1
 
+test
+
 var win = Titanium.UI.createWindow({  
     title:'',
     backgroundColor:'#fff'
