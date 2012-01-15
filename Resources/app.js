@@ -8,20 +8,7 @@ var tab1 = Titanium.UI.createTab({
 	window:win
 });
 
-sss
-
-test for pull 1
-
-test
-
-test 2
-
-
-test master add
-
-
-hirhicbd
-
+This is Master Update
 
 var win = Titanium.UI.createWindow({  
     title:'',
@@ -31,6 +18,8 @@ var win = Titanium.UI.createWindow({
 var view = Titanium.UI.createView({
 	tile:'View',
 });
+
+This is Another Master Update
 
 //win.backgroundColor = 'black';
 var tutorAppLabel = Ti.UI.createLabel({
