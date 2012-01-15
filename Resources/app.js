@@ -17,7 +17,7 @@ test
 test 2
 
 
-test experiemtnal add
+test master add
 
 var win = Titanium.UI.createWindow({  
     title:'',
