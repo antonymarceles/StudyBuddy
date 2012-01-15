@@ -10,7 +10,7 @@ var tab1 = Titanium.UI.createTab({
 
 
 
-test for pull 
+test for pull 1
 
 var win = Titanium.UI.createWindow({  
     title:'',
