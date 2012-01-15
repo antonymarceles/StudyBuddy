@@ -19,7 +19,12 @@ test 2
 
 test master add
 
-erhietibfie;n
+<<<<<<< HEAD
+=======
+
+hirhicbd
+
+>>>>>>> experimental
 
 var win = Titanium.UI.createWindow({  
     title:'',
