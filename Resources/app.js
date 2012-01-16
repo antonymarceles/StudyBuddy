@@ -9,7 +9,7 @@ var tab1 = Titanium.UI.createTab({
 });
 
 
-This is an update for Experimental Add
+BLAH -- This is an update for Master Add
 
 var win = Titanium.UI.createWindow({  
     title:'',
@@ -20,7 +20,7 @@ var view = Titanium.UI.createView({
 	tile:'View',
 });
 
-This is Another Master Update
+BLAH -- This is Another Experimental Update
 
 
 //win.backgroundColor = 'black';
