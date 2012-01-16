@@ -9,7 +9,8 @@ var tab1 = Titanium.UI.createTab({
 });
 
 
-This is in Master - Beginning of Day
+
+This is update to Experimental - End of Day
 
 var win = Titanium.UI.createWindow({  
     title:'',
@@ -20,7 +21,8 @@ var view = Titanium.UI.createView({
 	tile:'View',
 });
 
-This is in Master - Beginning of Day
+
+This is update to Experimental - End of Day
 
 
 //win.backgroundColor = 'black';
